@@ -1,6 +1,6 @@
 # Elhacker Downloader
 <p align="center">
-  <img src="https://github.com/fumioryoto/elhacker/raw/main/assets/Screenshot1.png" alt="Dashboard" width="1500">
+  <img src="https://github.com/nullkitsunedev/elhacker/raw/main/assets/Screenshot1.png" alt="Dashboard" width="1500">
 </p>
 A simple Windows app for downloading files from a directory-style website. I made this for dowloading courses from a specific site and manual work is not for me. It only works if all files ar like web directory archive.
 
